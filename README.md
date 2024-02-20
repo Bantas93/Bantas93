@@ -56,8 +56,8 @@
 
 <div align="center">
  
-![](https://github-readme-stats.vercel.app/api?username=Bantas93&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-<br><br><br>
+<!--![](https://github-readme-stats.vercel.app/api?username=Bantas93&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<br><br><br>-->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Bantas93&theme=dark&hide_border=false)
 <br><br><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bantas93&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -90,7 +90,7 @@
 
 <br>
 
-<div align="center">
+<!--<div align="center">
     
 ## 🏆 Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Bantas93&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -100,7 +100,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Bantas93&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-</div>
+</div>-->
 
 <br>
 
