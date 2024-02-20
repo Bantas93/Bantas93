@@ -1,6 +1,5 @@
 [![](https://visitcount.itsvg.in/api?id=Bantas93&icon=6&color=0)](https://visitcount.itsvg.in)
 
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+!+👋;+I'm+Bantas+Syarif!;+Nice+To+Meet+You+!;+Let's+be+friends+!;" />
 </h1>
@@ -27,7 +26,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bantas-syarif-hidayah-imantara-1306531b4/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bantas-syarif-hidayah-imantara-1306531b4/" height="30" width="40" />
+   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a><a href="https://fb.com/https://www.facebook.com/bantaz.zhaa/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/bantaz.zhaa/" height="30" width="40" />
 </a>
