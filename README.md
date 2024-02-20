@@ -77,7 +77,7 @@
 
 <div align="center">
     
-[![My Skills](https://skillicons.dev/icons?i=react,mysql,html,css,javascript,bootstrap,github,express,figma,nodejs,ps,postman,py,sketchup,tailwind,vercel,vscode&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,mysql,html,css,javascript,bootstrap,github,express,figma,nodejs,ps,postman,py,sketchup,tailwind,vercel,vscode)](https://skillicons.dev)
 
 </div>
 
