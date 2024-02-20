@@ -27,9 +27,7 @@
 
 <div align="center">
     
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=1000&lines=Github+Status+!;" />
-</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kode+Mono&weight=600&size=50&duration=800&pause=10&color=B8B8B8&background=FF000000&center=true&vCenter=true&random=false&width=435&lines=Frameworks;Languages;Tools)](https://git.io/typing-svg)
 
 ![](https://github-readme-stats.vercel.app/api?username=Bantas93&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Bantas93&theme=dark&hide_border=false)
