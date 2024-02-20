@@ -28,7 +28,7 @@
 <div align="center">
     
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=10&lines=Github+Status+!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=1000&lines=Github+Status+!;" />
 </h3>
 
 ![](https://github-readme-stats.vercel.app/api?username=Bantas93&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
