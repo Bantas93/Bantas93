@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Bantas93.Bantas" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Bantas93.Bantas93" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+!+👋;+Saya+Bantas+Syarif!;+Salam+Kenal+!;+Mari+Kita+Berteman+!;" />
@@ -9,15 +9,15 @@
 
 <h3 align="center">A passionate software developer from Indonesian</h3>
 
-<div align="center">
+<div align="left">
  
- 🔭 I’m currently working on **a marketplace**
+🔭 I am a student at **Bina Informatics University**.
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+🌱 I have experience creating simple applications with ***create, read, update, delete*** features using **React JS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Bantas93/Bantas/issues)**
+💬 Ask me about **React, Node.js, Mysql... or anything [here](https://discord.gg/bantas93)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **Coding is a fun headache.**
 
  </div>
 <div align="center"> 
@@ -34,17 +34,26 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,nextjs,mysql,photoshop" /><br>
 </div>
 <br/>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bantas-syarif-hidayah-imantara-1306531b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bantas-syarif-hidayah-imantara-1306531b4/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/bantaz.zhaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/bantaz.zhaa/" height="30" width="40" /></a>
-<a href="https://instagram.com/bantassyarif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bantassyarif" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@bantassyarif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@bantassyarif" height="30" width="40" /></a>
-<a href="https://discord.gg/bantas93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bantas93" height="30" width="40" /></a>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/bantas-syarif-hidayah-imantara-1306531b4/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bantas-syarif-hidayah-imantara-1306531b4/" height="30" width="40" />
+</a><a href="https://fb.com/https://www.facebook.com/bantaz.zhaa/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/bantaz.zhaa/" height="30" width="40" />
+</a>
+<a href="https://instagram.com/bantassyarif" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bantassyarif" height="30" width="40" />
+</a>
+<a href="https://www.youtube.com/c/@bantassyarif" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@bantassyarif" height="30" width="40" />
+</a>
+<a href="https://discord.gg/bantas93" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bantas93" height="30" width="40" />
+</a>
 </p>
 <br/>
 <div align="center">
