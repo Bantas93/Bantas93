@@ -14,14 +14,13 @@
  
 🔭 I am a student at **Bina Informatics University**.
  
-🌱 I have experience creating simple applications with ***create, read, update, delete*** features using **React JS**
+🌱 I have experience creating simple applications with ***create, read, update, delete*** features using **React JS**.
 
-💬 Ask me about **React, Node.js, Mysql... or anything [here](https://discord.gg/bantas93)**
+💬 ask me about programming anything over "**a cup of hot coffee**".
 
-⚡ Fun fact **Coding is a fun headache.**
+⚡ Fun fact "**Coding is a fun headache**."
 
 <br>
-
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
