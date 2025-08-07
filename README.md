@@ -6,7 +6,7 @@
 
 <br>
 
-<h3 align="center">A passionate software developer from Indonesian</h3>
+<h3 align="center">A passionate software developer from Indonesian!</h3>
 
 <br>
 
