@@ -12,7 +12,7 @@
 
 <div align="left">
  
-🔭 I am a student at **Bina Informatics University**.
+🔭 I am a student at **Bina Informatics University** !
  
 🌱 I have experience creating simple applications with ***create, read, update, delete*** features using **React JS**.
 
